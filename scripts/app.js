@@ -30,3 +30,4 @@ btn.addEventListener('click', () => {
     moviePosterUrl.value = '';
     movieYear.value = '';
 });
+
