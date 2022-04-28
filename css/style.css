@@ -34,12 +34,14 @@ html {
 }
 
 .container h3 {
-    margin: 2rem;
+    margin: 1rem;
     color: aliceblue;
     text-transform: capitalize;
 }
 
 .container p {
     color: aliceblue;
+    text-transform: uppercase;
     font-size: 1.5rem;
 }
+
